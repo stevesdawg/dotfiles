@@ -42,7 +42,7 @@ set hidden
 set noshowmode
 syntax enable
 filetype plugin on
-set guicursor=n-v-c-sm:ver25-blinkon0,i-ci-ve:ver25,r-cr-o:hor20
+set guicursor=n-v-c-sm-i-ci-ve:block-blinkon10,r-cr-o:hor20
 
 " sonokai
 let g:sonokai_style = 'atlantis'
