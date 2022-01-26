@@ -135,3 +135,4 @@ unset __conda_setup
 export QSYS_ROOTDIR="/home/shrivathsav/intelFPGA_lite/19.1/quartus/sopc_builder/bin"
 
 [ -f ~/.fzf.bash ] && source ~/.fzf.bash
+source "$HOME/.cargo/env"

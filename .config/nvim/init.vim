@@ -40,6 +40,8 @@ set cursorline
 set termguicolors
 set hidden
 set noshowmode
+set colorcolumn=80
+set wrap
 syntax enable
 filetype plugin on
 set guicursor=n-v-c-sm-i-ci-ve:block-blinkon10,r-cr-o:hor20
